@@ -56,7 +56,7 @@ source venv/bin/activate  # For macOS/Linux users
 pip install -r requirements.txt
 ```
 
-#### **Running the Analysis**
+#### **3. Running the Analysis**
 Once the setup is complete, you can launch the Jupyter Notebook.
 
 ```bash
@@ -67,6 +67,7 @@ jupyter notebook notebooks/eco-enzyme-rta-nlp.ipynb
 ## 📄 **Citation**
 
 If you use the code or methods from this study in your research, please cite our work:
+
 **Conference Proceedings**:
 
 ```bash
