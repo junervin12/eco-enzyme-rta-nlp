@@ -3,8 +3,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Authors:**  
-Desvita Nursayla Putri Cantika, Salwa Asysyifa Khoerunisa, Nazwa Hilda Syafira  
+**Authors:** Desvita Nursayla Putri Cantika, Salwa Asysyifa Khoerunisa, Nazwa Hilda Syafira  
 **Affiliation:** Agroindustrial Engineering Study Program, Universitas Linggabuana PGRI Sukabumi, Sukabumi, Indonesia
 
 📍 *Presented at the 2nd International Conference of Innovative Biofrontiers Students, hosted by Faculty of Agricultural Technology - Universitas Brawijaya*
