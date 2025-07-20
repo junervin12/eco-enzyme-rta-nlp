@@ -17,11 +17,12 @@ This study applies Reflexive Thematic Analysis (RTA) complemented with Natural L
 
 - `data/raw/`: Contains the original open-ended questionnaire dataset (`student_responses.csv`)
 - `data/processed/`: Cleaned and tokenized responses
+- `notebooks/`: Main script to run preprocessing and NLP workflow
 - `output/visualization/`: Network graph files (.gexf) and visual maps
 - `output/tables/`: Extracted n-gram frequency tables and NLP-to-theme mappings
-- `notebook/`: Main script to run preprocessing and NLP workflow
+- `LICENSE`: The MIT License file for the project
+- `README.md`: Project documentation (this file)
 - `requirements.txt`: Python dependencies used in notebook
-- - `requirements.txt`: Project documentation (this file)
 
 ## 📜 Methods
 
