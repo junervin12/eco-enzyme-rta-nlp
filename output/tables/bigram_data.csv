@@ -1,0 +1,60 @@
+benefit_bigram,benefit_freq,product_bigram,product_freq
+clean floor,2,animal feed,4.0
+eco enzyme,2,feed compost,2.0
+wash dishes,1,compost fertilizer,2.0
+dishes clean,1,fertilizer animal,2.0
+floor wipe,1,feed handicrafts,2.0
+wipe glass,1,fertilizer organic,2.0
+glass surfaces,1,organic waste,2.0
+surfaces using,1,organic fertilizer,2.0
+using eco,1,biogas animal,1.0
+enzyme costeffective,1,fertilizer fertilizer,1.0
+costeffective alternative,1,handicrafts biogas,1.0
+alternative compared,1,biogas fertilizer,1.0
+compared buying,1,waste fertilizer,1.0
+buying chemicalbased,1,fertilizer compost,1.0
+chemicalbased cleaning,1,feed organic,1.0
+cleaning stores,1,fertilizer livestock,1.0
+stores supermarkets,1,livestock feed,1.0
+supermarkets removes,1,handicrafts organic,1.0
+removes stains,1,waste eco,1.0
+stains usually,1,eco enzyme,1.0
+usually difficult,1,enzyme compost,1.0
+difficult clean,1,compost simple,1.0
+clean floors,1,simple fertilizers,1.0
+floors kitchens,1,fertilizers animal,1.0
+kitchens glass,1,,
+glass clothes,1,,
+clothes cleaning,1,,
+cleaning agent,1,,
+agent clean,1,,
+floor eco,1,,
+enzyme liquid,1,,
+liquid clean,1,,
+clean house,1,,
+house furniture,1,,
+furniture household,1,,
+household items,1,,
+items helps,1,,
+helps reduce,1,,
+reduce amount,1,,
+amount organic,1,,
+organic waste,1,,
+waste surrounding,1,,
+surrounding environment,1,,
+environment helps,1,,
+helps preserve,1,,
+preserve environment,1,,
+environment repels,1,,
+repels rats,1,,
+rats serves,1,,
+serves dishwashing,1,,
+dishwashing liquid,1,,
+liquid dish,1,,
+dish soap,1,,
+soap floor,1,,
+floor cleaner,1,,
+cleaner clean,1,,
+clean glass,1,,
+glass washing,1,,
+washing dishes,1,,

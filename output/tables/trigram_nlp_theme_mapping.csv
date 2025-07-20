@@ -1,0 +1,92 @@
+trigram,benefit_freq,product_freq,total_freq,theme
+agent clean floor,1,0,1,Household Cost Efficiency
+alternative compared buying,1,0,1,Household Cost Efficiency
+amount organic waste,1,0,1,Environmental Conservation
+animal feed compost,0,2,2,Waste-to-Product Diversification
+animal feed handicrafts,0,1,1,Waste-to-Product Diversification
+animal feed organic,0,1,1,Environmental Conservation
+biogas animal feed,0,1,1,Waste-to-Product Diversification
+biogas fertilizer organic,0,1,1,Environmental Conservation
+buying chemicalbased cleaning,1,0,1,Household Cost Efficiency
+chemicalbased cleaning stores,1,0,1,Household Cost Efficiency
+clean floor eco,1,0,1,Household Cost Efficiency
+clean floor wipe,1,0,1,Household Cost Efficiency
+clean floors kitchens,1,0,1,Household Cost Efficiency
+clean glass washing,1,0,1,Household Cost Efficiency
+clean house furniture,1,0,1,Household Cost Efficiency
+cleaner clean glass,1,0,1,Household Cost Efficiency
+cleaning agent clean,1,0,1,Household Cost Efficiency
+cleaning stores supermarkets,1,0,1,Household Cost Efficiency
+clothes cleaning agent,1,0,1,Household Cost Efficiency
+compared buying chemicalbased,1,0,1,Household Cost Efficiency
+compost fertilizer animal,0,1,1,Waste-to-Product Diversification
+compost fertilizer fertilizer,0,1,1,Waste-to-Product Diversification
+compost simple fertilizers,0,1,1,Waste-to-Product Diversification
+costeffective alternative compared,1,0,1,Household Cost Efficiency
+difficult clean floors,1,0,1,Household Cost Efficiency
+dish soap floor,1,0,1,Household Cost Efficiency
+dishes clean floor,1,0,1,Household Cost Efficiency
+dishwashing liquid dish,1,0,1,Household Cost Efficiency
+eco enzyme compost,0,1,1,Environmental Conservation
+eco enzyme costeffective,1,0,1,Household Cost Efficiency
+eco enzyme liquid,1,0,1,Household Cost Efficiency
+environment helps preserve,1,0,1,Environmental Conservation
+environment repels rats,1,0,1,Environmental Conservation
+enzyme compost simple,0,1,1,Environmental Conservation
+enzyme costeffective alternative,1,0,1,Household Cost Efficiency
+enzyme liquid clean,1,0,1,Household Cost Efficiency
+feed compost fertilizer,0,1,1,Waste-to-Product Diversification
+feed handicrafts biogas,0,1,1,Waste-to-Product Diversification
+feed handicrafts organic,0,1,1,Environmental Conservation
+feed organic fertilizer,0,1,1,Environmental Conservation
+fertilizer animal feed,0,2,2,Waste-to-Product Diversification
+fertilizer compost fertilizer,0,1,1,Waste-to-Product Diversification
+fertilizer fertilizer animal,0,1,1,Waste-to-Product Diversification
+fertilizer livestock feed,0,1,1,Waste-to-Product Diversification
+fertilizer organic fertilizer,0,1,1,Environmental Conservation
+fertilizer organic waste,0,1,1,Environmental Conservation
+fertilizers animal feed,0,1,1,Waste-to-Product Diversification
+floor cleaner clean,1,0,1,Household Cost Efficiency
+floor eco enzyme,1,0,1,Household Cost Efficiency
+floor wipe glass,1,0,1,Household Cost Efficiency
+floors kitchens glass,1,0,1,Household Cost Efficiency
+furniture household items,1,0,1,Household Cost Efficiency
+glass clothes cleaning,1,0,1,Household Cost Efficiency
+glass surfaces using,1,0,1,Unknown
+glass washing dishes,1,0,1,Unknown
+handicrafts biogas fertilizer,0,1,1,Waste-to-Product Diversification
+handicrafts organic waste,0,1,1,Environmental Conservation
+helps preserve environment,1,0,1,Environmental Conservation
+helps reduce amount,1,0,1,Environmental Conservation
+house furniture household,1,0,1,Household Cost Efficiency
+household items helps,1,0,1,Household Cost Efficiency
+items helps reduce,1,0,1,Household Cost Efficiency
+kitchens glass clothes,1,0,1,Unknown
+liquid clean house,1,0,1,Household Cost Efficiency
+liquid dish soap,1,0,1,Household Cost Efficiency
+livestock feed handicrafts,0,1,1,Waste-to-Product Diversification
+organic fertilizer livestock,0,1,1,Environmental Conservation
+organic fertilizer organic,0,1,1,Environmental Conservation
+organic waste eco,0,1,1,Environmental Conservation
+organic waste fertilizer,0,1,1,Environmental Conservation
+organic waste surrounding,1,0,1,Environmental Conservation
+preserve environment repels,1,0,1,Environmental Conservation
+rats serves dishwashing,1,0,1,Household Cost Efficiency
+reduce amount organic,1,0,1,Environmental Conservation
+removes stains usually,1,0,1,Unknown
+repels rats serves,1,0,1,Environmental Conservation
+serves dishwashing liquid,1,0,1,Household Cost Efficiency
+simple fertilizers animal,0,1,1,Waste-to-Product Diversification
+soap floor cleaner,1,0,1,Household Cost Efficiency
+stains usually difficult,1,0,1,Unknown
+stores supermarkets removes,1,0,1,Household Cost Efficiency
+supermarkets removes stains,1,0,1,Household Cost Efficiency
+surfaces using eco,1,0,1,Environmental Conservation
+surrounding environment helps,1,0,1,Environmental Conservation
+using eco enzyme,1,0,1,Environmental Conservation
+usually difficult clean,1,0,1,Household Cost Efficiency
+wash dishes clean,1,0,1,Household Cost Efficiency
+waste eco enzyme,0,1,1,Environmental Conservation
+waste fertilizer compost,0,1,1,Environmental Conservation
+waste surrounding environment,1,0,1,Environmental Conservation
+wipe glass surfaces,1,0,1,Household Cost Efficiency
