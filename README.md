@@ -5,7 +5,7 @@
 
 **Authors:**  
 Desvita Nursayla Putri Cantika, Salwa Asysyifa Khoerunisa, Nazwa Hilda Syafira  
-**Affiliation:** Agroindustrial Engineering Study Program, Universitas Linggabuana PGRI Sukabumi  
+**Affiliation:** Agroindustrial Engineering Study Program, Universitas Linggabuana PGRI Sukabumi, Sukabumi, Indonesia
 
 📍 *Presented at the 2nd International Conference of Innovative Biofrontiers Students, hosted by Faculty of Agricultural Technology - Universitas Brawijaya*
 
