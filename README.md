@@ -34,15 +34,15 @@ This study applies Reflexive Thematic Analysis (RTA) complemented with Natural L
 
 To run this analysis on your local machine, please follow the steps below.
 
-### **1. Prerequisites**
+#### **1. Prerequisites**
 * Python 3.8+
 * Git
 
-### **2. Installation & Setup**
+#### **2. Installation & Setup**
 
 ```bash
 # 1. Clone this repository to your local machine
-git clone [https://github.com/junervin12/eco-enzyme-rta-nlp.git](https://github.com/junervin12/eco-enzyme-rta-nlp.git)
+git clone https://github.com/junervin12/eco-enzyme-rta-nlp.git
 cd eco-enzyme-rta-nlp
 
 # 2. (Highly recommended) Create and activate a virtual environment
@@ -55,7 +55,7 @@ source venv/bin/activate  # For macOS/Linux users
 pip install -r requirements.txt
 ```
 
-### **Running the Analysis**
+#### **Running the Analysis**
 Once the setup is complete, you can launch the Jupyter Notebook.
 
 ```bash
@@ -69,7 +69,7 @@ If you use the code or methods from this study in your research, please cite our
 **Conference Proceedings**:
 
 ```bash
-Putri Cantika, D. N., Khoerunisa, S. A., & Syafira, N. H. (2025). *Valorizing Organic Waste in Schools: A Thematic-NLP Analysis of Student Experiences with Eco-Enzyme as a Sustainability Practice*. In Proceedings of the 2nd International Conference of Innovative Biofrontiers Students. Universitas Brawijaya, Malang, Indonesia.
+Putri Cantika, D. N., Khoerunisa, S. A., & Syafira, N. H. (2025). Valorizing Organic Waste in Schools: A Thematic-NLP Analysis of Student Experiences with Eco-Enzyme as a Sustainability Practice. In Proceedings of the 2nd International Conference of Innovative Biofrontiers Students. Universitas Brawijaya, Malang, Indonesia.
 ```
 
 ## 🤝 Acknowledgments
