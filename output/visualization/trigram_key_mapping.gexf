@@ -1,0 +1,633 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-07-20">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="category" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="color" type="string" />
+    </attributes>
+    <nodes>
+      <node id="wash" label="wash">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="dishes" label="dishes">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="clean" label="clean">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="floor" label="floor">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="wipe" label="wipe">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="glass" label="glass">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="surfaces" label="surfaces">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="using" label="using">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="eco" label="eco">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="enzyme" label="enzyme">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="costeffective" label="costeffective">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="alternative" label="alternative">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="compared" label="compared">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="buying" label="buying">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="chemicalbased" label="chemicalbased">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="cleaning" label="cleaning">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="stores" label="stores">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="supermarkets" label="supermarkets">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="removes" label="removes">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="stains" label="stains">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="usually" label="usually">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="difficult" label="difficult">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="floors" label="floors">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="kitchens" label="kitchens">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="clothes" label="clothes">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="liquid" label="liquid">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="house" label="house">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="furniture" label="furniture">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="household" label="household">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="items" label="items">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="helps" label="helps">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="reduce" label="reduce">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="amount" label="amount">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="organic" label="organic">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="waste" label="waste">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="surrounding" label="surrounding">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="environment" label="environment">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="preserve" label="preserve">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="repels" label="repels">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="rats" label="rats">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="serves" label="serves">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="dishwashing" label="dishwashing">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="dish" label="dish">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="soap" label="soap">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="cleaner" label="cleaner">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="washing" label="washing">
+        <attvalues>
+          <attvalue for="0" value="#1f77b4" />
+        </attvalues>
+      </node>
+      <node id="biogas" label="biogas">
+        <attvalues>
+          <attvalue for="0" value="#2ca02c" />
+        </attvalues>
+      </node>
+      <node id="animal" label="animal">
+        <attvalues>
+          <attvalue for="0" value="#2ca02c" />
+        </attvalues>
+      </node>
+      <node id="feed" label="feed">
+        <attvalues>
+          <attvalue for="0" value="#2ca02c" />
+        </attvalues>
+      </node>
+      <node id="compost" label="compost">
+        <attvalues>
+          <attvalue for="0" value="#2ca02c" />
+        </attvalues>
+      </node>
+      <node id="fertilizer" label="fertilizer">
+        <attvalues>
+          <attvalue for="0" value="#2ca02c" />
+        </attvalues>
+      </node>
+      <node id="organiccompost" label="organiccompost">
+        <attvalues>
+          <attvalue for="0" value="#2ca02c" />
+        </attvalues>
+      </node>
+      <node id="handicrafts" label="handicrafts">
+        <attvalues>
+          <attvalue for="0" value="#2ca02c" />
+        </attvalues>
+      </node>
+      <node id="livestock" label="livestock">
+        <attvalues>
+          <attvalue for="0" value="#2ca02c" />
+        </attvalues>
+      </node>
+      <node id="simple" label="simple">
+        <attvalues>
+          <attvalue for="0" value="#2ca02c" />
+        </attvalues>
+      </node>
+      <node id="fertilizers" label="fertilizers">
+        <attvalues>
+          <attvalue for="0" value="#2ca02c" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="wash" target="dishes" id="0" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="dishes" target="clean" id="1" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="dishes" target="washing" id="2" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="clean" target="floor" id="3" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="clean" target="difficult" id="4" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="clean" target="floors" id="5" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="clean" target="house" id="6" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="clean" target="glass" id="7" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="floor" target="wipe" id="8" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="floor" target="eco" id="9" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="floor" target="soap" id="10" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="floor" target="cleaner" id="11" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="wipe" target="glass" id="12" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="glass" target="surfaces" id="13" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="glass" target="kitchens" id="14" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="glass" target="clothes" id="15" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="glass" target="washing" id="16" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="surfaces" target="using" id="17" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="using" target="eco" id="18" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="eco" target="enzyme" id="19" weight="1">
+        <attvalues>
+          <attvalue for="1" value="products" />
+        </attvalues>
+      </edge>
+      <edge source="eco" target="waste" id="20" weight="1">
+        <attvalues>
+          <attvalue for="1" value="products" />
+        </attvalues>
+      </edge>
+      <edge source="enzyme" target="costeffective" id="21" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="enzyme" target="liquid" id="22" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="enzyme" target="compost" id="23" weight="1">
+        <attvalues>
+          <attvalue for="1" value="products" />
+        </attvalues>
+      </edge>
+      <edge source="costeffective" target="alternative" id="24" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="alternative" target="compared" id="25" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="compared" target="buying" id="26" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="buying" target="chemicalbased" id="27" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="chemicalbased" target="cleaning" id="28" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="cleaning" target="stores" id="29" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="stores" target="supermarkets" id="30" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="removes" target="stains" id="31" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="stains" target="usually" id="32" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="usually" target="difficult" id="33" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="floors" target="kitchens" id="34" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="liquid" target="dishwashing" id="35" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="house" target="furniture" id="36" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="furniture" target="household" id="37" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="household" target="items" id="38" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="helps" target="reduce" id="39" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="helps" target="preserve" id="40" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="reduce" target="amount" id="41" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="amount" target="organic" id="42" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="organic" target="waste" id="43" weight="1">
+        <attvalues>
+          <attvalue for="1" value="products" />
+        </attvalues>
+      </edge>
+      <edge source="organic" target="fertilizer" id="44" weight="1">
+        <attvalues>
+          <attvalue for="1" value="products" />
+        </attvalues>
+      </edge>
+      <edge source="waste" target="surrounding" id="45" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="waste" target="fertilizer" id="46" weight="1">
+        <attvalues>
+          <attvalue for="1" value="products" />
+        </attvalues>
+      </edge>
+      <edge source="surrounding" target="environment" id="47" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="environment" target="preserve" id="48" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="environment" target="repels" id="49" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="repels" target="rats" id="50" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="rats" target="serves" id="51" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="serves" target="dishwashing" id="52" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="dish" target="soap" id="53" weight="1">
+        <attvalues>
+          <attvalue for="1" value="benefits" />
+        </attvalues>
+      </edge>
+      <edge source="biogas" target="animal" id="54" weight="1">
+        <attvalues>
+          <attvalue for="1" value="products" />
+        </attvalues>
+      </edge>
+      <edge source="biogas" target="handicrafts" id="55" weight="1">
+        <attvalues>
+          <attvalue for="1" value="products" />
+        </attvalues>
+      </edge>
+      <edge source="animal" target="feed" id="56" weight="1">
+        <attvalues>
+          <attvalue for="1" value="products" />
+        </attvalues>
+      </edge>
+      <edge source="animal" target="fertilizer" id="57" weight="1">
+        <attvalues>
+          <attvalue for="1" value="products" />
+        </attvalues>
+      </edge>
+      <edge source="animal" target="fertilizers" id="58" weight="1">
+        <attvalues>
+          <attvalue for="1" value="products" />
+        </attvalues>
+      </edge>
+      <edge source="feed" target="compost" id="59" weight="1">
+        <attvalues>
+          <attvalue for="1" value="products" />
+        </attvalues>
+      </edge>
+      <edge source="feed" target="handicrafts" id="60" weight="1">
+        <attvalues>
+          <attvalue for="1" value="products" />
+        </attvalues>
+      </edge>
+      <edge source="feed" target="livestock" id="61" weight="1">
+        <attvalues>
+          <attvalue for="1" value="products" />
+        </attvalues>
+      </edge>
+      <edge source="compost" target="fertilizer" id="62" weight="1">
+        <attvalues>
+          <attvalue for="1" value="products" />
+        </attvalues>
+      </edge>
+      <edge source="compost" target="simple" id="63" weight="1">
+        <attvalues>
+          <attvalue for="1" value="products" />
+        </attvalues>
+      </edge>
+      <edge source="fertilizer" target="organiccompost" id="64" weight="1">
+        <attvalues>
+          <attvalue for="1" value="products" />
+        </attvalues>
+      </edge>
+      <edge source="fertilizer" target="livestock" id="65" weight="1">
+        <attvalues>
+          <attvalue for="1" value="products" />
+        </attvalues>
+      </edge>
+      <edge source="simple" target="fertilizers" id="66" weight="1">
+        <attvalues>
+          <attvalue for="1" value="products" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
