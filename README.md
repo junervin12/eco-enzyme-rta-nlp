@@ -81,7 +81,7 @@ If you use the code or methods from this study in your research, please cite our
 **Conference Proceedings**:
 
 ```bash
-Putri Cantika, D. N., Khoerunisa, S. A., & Syafira, N. H. (2025). Valorizing Organic Waste in Schools: A Thematic-NLP Analysis of Student Experiences with Eco-Enzyme as a Sustainability Practice. In Proceedings of the 2nd International Conference of Innovative Biofrontiers Students. Universitas Brawijaya, Malang, Indonesia.
+Cantika, D. N. P., Khoerunisa, S. A., & Syafira, N. H. (2025). Valorizing Organic Waste in Schools: A Thematic-NLP Analysis of Student Experiences with Eco-Enzyme as a Sustainability Practice. In Proceedings of the 2nd International Conference of Innovative Biofrontiers Students. Universitas Brawijaya, Malang, Indonesia.
 ```
 
 ## 🤝 Acknowledgments
