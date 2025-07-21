@@ -63,6 +63,17 @@ Once the setup is complete, you can launch the Jupyter Notebook.
 jupyter notebook notebooks/eco-enzyme-rta-nlp.ipynb
 ```
 
+## 📦 Archived Release for Citation
+
+This repository has been officially archived for publication and reproducibility.  
+The specific version (v1.0) used in the study is available and citable via Zenodo:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16257823.svg)](https://doi.org/10.5281/zenodo.16257823)  
+🔗 **Zenodo DOI:** https://doi.org/10.5281/zenodo.16257823
+
+> This archived version ensures that the exact code and dataset used for the research are permanently accessible and can be cited in future works.  
+> While the GitHub repository may continue to be updated, this Zenodo release corresponds to the version referenced in the publication.
+
 ## 📄 **Citation**
 
 If you use the code or methods from this study in your research, please cite our work:
